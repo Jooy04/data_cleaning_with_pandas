@@ -26,7 +26,7 @@ exist in their database.
 -pandas
 
 
-##STEPS
+## STEPS
 -Extract dataset
 -clean dataset
 ## DATASET
